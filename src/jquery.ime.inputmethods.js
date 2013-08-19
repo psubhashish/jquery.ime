@@ -789,7 +789,7 @@
 		},
 		'or': {
 			autonym: 'ଓଡ଼ିଆ',
-			inputmethods: [ 'or-phonetic', 'or-transliteration', 'or-inscript', 'or-inscript2', 'or-lekhani' ]
+			inputmethods: [ 'or-lekhani', 'or-transliteration', 'or-inscript', 'or-inscript2','or-phonetic' ]
 		},
 		'pa': {
 			autonym: 'ਪੰਜਾਬੀ',
